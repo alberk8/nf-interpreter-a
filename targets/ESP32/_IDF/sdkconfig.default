@@ -130,10 +130,6 @@ CONFIG_COMPILER_STACK_CHECK_MODE_NONE=y
 # Component config
 #
 
-# #######################
-# CUSTOM Configuration
-# #######################
-CONFIG_ESP32_WIFI_TASK_PINNED_TO_CORE_1=y
 
 #
 # Application Level Tracing
