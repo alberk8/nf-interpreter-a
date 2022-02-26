@@ -1,0 +1,3 @@
+[submodule "targets-community"]
+	path = targets-community
+	url = ../nf-Community-Targets.git
